@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.3.14](https://github.com/jdx/mise/compare/v2026.3.13..v2026.3.14) - 2026-03-23
+
+### 🚀 Features
+
+- **(registry)** add tart by @mnm364 in [#8727](https://github.com/jdx/mise/pull/8727)
+
 ## [2026.3.13](https://github.com/jdx/mise/compare/v2026.3.12..v2026.3.13) - 2026-03-23
 
 ### 🐛 Bug Fixes
